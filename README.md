@@ -55,6 +55,9 @@
 
 ### 启动依赖
 redis：docker安装 
+
 rabbitmq: docker安装
-es: docker安装
+
+elastic search: docker安装
+
 安装canal-server, canal-adapter: [https://www.macrozheng.com/project/canal_start.html](https://www.macrozheng.com/project/canal_start.html)
